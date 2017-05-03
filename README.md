@@ -55,7 +55,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Sales Negotiator*
 
 **McDonalds** (Sept 13 - Sept 14)
--*Trainee Business Manager*
+*Trainee Business Manager*
 
 **Badger Racing Ltd (on-course bookmaker)** (Jun 10 - Jun 15)
 *Risk Analyst & Trader*
