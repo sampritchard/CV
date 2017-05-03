@@ -57,7 +57,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **McDonalds** (Sept 13 - Sept 14)
 *Trainee Business Manager*
 
-**Badger Racing Ltd (on-course bookmaker** (Jun 10 - Jun 15)
+**Badger Racing Ltd (on-course bookmaker)** (Jun 10 - Jun 15)
 *Risk Analyst & Trader*
 
 **Sports Trading Business** (Oct 10 - Jun 12)
