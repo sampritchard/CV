@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## <a name="Skills">Education</a>
+## <a name="Education">Education</a>
 
 #### Makers Academy (May 17 to July 17)
 
