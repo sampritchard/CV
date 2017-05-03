@@ -1,6 +1,6 @@
 ## Sam Pritchard
 
-[Skills](##Skills) | [Education](##Education) | [Projects](##Projects) | [Experience](##Experience) | [Hobbies and Interests](##Hobbies) | [Blog](##TBC)
+[Skills](##Skills) | [Education](#Education) | [Projects](##Projects) | [Experience](##Experience) | [Hobbies and Interests](##Hobbies) | [Blog](##TBC)
 
 A sentence about who and what you are. Then a sentence about what you've achieved.And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
