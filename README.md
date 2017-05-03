@@ -1,10 +1,10 @@
 ## Sam Pritchard
 
-[Skills](##Skills) | [Education](#Education) | [Projects](##Projects) | [Experience](##Experience) | [Hobbies and Interests](##Hobbies) | [Blog](##TBC)
+[Skills](##Skills) | [Education](##Education) | [Projects](##Projects) | [Experience](##Experience) | [Hobbies and Interests](##Hobbies) | [Blog](##TBC)
 
 A sentence about who and what you are. Then a sentence about what you've achieved.And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-## Skills
+## <a name="Skills">Skills</a>
 
 #### This Skill
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+## <a name="Skills">Education</a>
 
 #### Makers Academy (May 17 to July 17)
 
