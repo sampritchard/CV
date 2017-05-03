@@ -45,7 +45,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A-levels:     2 A's in Psychology & Physical Education. B in History
 - GCSE's:       9 GCSE's grade A-B including Mathematics(A) & Enlgish Language(A)
 
-#### Any other qualifications
 
 ## Experience
 
