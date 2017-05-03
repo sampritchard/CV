@@ -50,12 +50,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Salt Australia** (Dec 15 - Jan 17)    
 *Recruitment Consultant (Web & Mobile Development)*  
+
 **Foxtons** (Sept 14 - Mar 15)   
 *Sales Negotiator*
+
 **McDonalds** (Sept 13 - Sept 14)
 *Trainee Business Manager*
+
 **Badger Racing Ltd (on-course bookmaker** (Jun 10 - Jun 15)
 *Risk Analyst & Trader*
+
 **Sports Trading Business** (Oct 10 - Jun 12)
 *Trader*
 
