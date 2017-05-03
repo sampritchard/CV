@@ -1,6 +1,8 @@
 ## Sam Pritchard
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+[Skills](##Skills) | +[Education](##Education) | +[Projects](##Projects) | +[Experience](##Experience) | +[Hobbies & Interests](##Hobbies & Interests) | +[Blog](##TBC)
+
+A sentence about who and what you are. Then a sentence about what you've achieved.And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
 
@@ -23,7 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 17 to July 17)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +34,30 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Cardiff Psychology (Sept 09 - Jun 13)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc in Psychology
+- 2:1 
+- Modules included Statistics, Behavioural Psychology and Cognitive Psychology
+
+#### Sir Thomas Rich's School (Sept 01 - June 08)
+
+- A-levels:     2 A's in Psychology & Physical Education. B in History
+- GCSE's:       9 GCSE's grade A-B including Mathematics(A) & Enlgish Language(A)
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Salt Australia** (Dec 15 - Jan 17)    
+*Recruitment Consultant (Web & Mobile Development)*  
+**Foxtons** (Sept 14 - Mar 15)   
+*Sales Negotiator*
+**McDonalds** (Sept 13 - Sept 14)
+*Trainee Business Manager*
+**Badger Racing Ltd (on-course bookmaker** (Jun 10 - Jun 15)
+*Risk Analyst & Trader*
+**Sports Trading Business** (Oct 10 - Jun 12)
+*Trader*
+
+## Hobbies & Interests
