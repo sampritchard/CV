@@ -2,25 +2,29 @@
 
 [Skills](#Skills) | [Education](#Education) | [Projects](##Projects) | [Experience](##Experience) | [Hobbies and Interests](##Hobbies) | [Blog](##TBC)
 
-My first taste of software development came when I joined a recruitment agency in Sydney who asked me to recruit web developers. I started speaking to web devs without knowing the difference between HTML and JavaScript, let alone what Object-Orientated design meant! It was a real baptism of fire, but after the first few weeks, I realised this was an incredibly fascinating industry which required super interesting people. After returning to the UK, I knew there was only one career path that I wanted to focus on.
+I am a confident and ambitious **Junior Full Stack Developer** based in London. With a strong analytical mind, I have embarked on a career change where I can put my skills to better use.
 
-Since May 2017, I have been studying at Makers Academy, a 3-month full-time developer bootcamp. I have taken my coding skills to   
-A sentence about who and what you are. Then a sentence about what you've achieved.And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+After recruiting software developers in Sydney, I became fascinated by the intricate details of the Development landscape. Currently undertaking the intensive 12 weeks of [Makers Academy](http://www.makersacademy.com/), I have grown from someone with an interest in code, to someone who is incredidbly passionate about writing clean code using best practices. 
+
+I am currently looking for a role within an ambitious company that promotes learning and collaboration in a team enviornment, where I can consolodate and extend my programming knowledge surrounded by like-minded professionals. 
 
 ## <a name="Skills">Skills</a>
 
 #### Communication
 
-With a background in sales, communication is what my previous career has been based on. During my sales career in London and Sydney, I have dealt with professionals and clients from all walks of life. From buidling relationships with a CTO at a major Fintech, to helping a Developer get their first job oversea's. I love networking at events and meeting new people. Verbal and written communication skills.
+With a background in sales, communication is what my previous career has been based on. During my sales career in London and Sydney, I have dealt with professionals from all walks of life, developing my verbal and written communication skills in high-pressured enviornments. From buidling relationships with a CTO at a major Fintech, to helping a Developer get their first job oversea's, I have succeeded in every sales position I have held. I regularly attend Meetups in and around London and love meeting new people.
 
 #### Initiative
 
-Whilst at University, I created a sports trading business to help fund myself.
-After joining a start-up branch of a recruitment company in Sydney, I helped develop our brand and staff retention by deploying ideas such as a quarterly meetup with tech leaders, staff activities at the end of every month and much more
+Whilst at University, I created a sports trading business to help fund myself. I noticed a gap in the market within the industry and for 2 years, worked on a trading platform making consistent profit. In Sydney, I joined a start-up branch of a larger recruitment organisation and helped develop the brand. Using London's style of recruitment was not working and we came up with numerous solutions to help us in a Sydney market (regular tech Meetups, graduate developer programmes, etc).
 
 #### Analytical
 
+During my time as a Bookmaker, I had to analyse price-movements and fluctuations on a daily basis to give suggestions to our team. Whilst working in sales, I was always analytical over my pipeline management and when choosing what clients were right for certain candidates and vice versa.
+
 #### Time-Management
+
+Throughout my sales career, time-management has been hugely important. Breaking the day up into manageable chunks works well for me and having the flexibility to move these around when something urgent happens is something I excel at. Key to good time-management is good organisation. In my previous sales role I implemented a priority scale for the team so we could break down our day based on what our biggest priorities were during that day.
 
 ## <a name="Education">Education</a>
 
@@ -46,6 +50,10 @@ After joining a start-up branch of a recruitment company in Sydney, I helped dev
 
 ## <a name="Projects">Projects</a>
 
+For a complete list of my projects, and full source code, please see my [GitHub](https://github.com/sampritchard)
+
+| Project   | Description | Technologies |
+|---        |---          |---           |
 
 ## <a name="Experience">Experience</a>
 
