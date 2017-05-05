@@ -1,6 +1,6 @@
 ## Sam Pritchard
 
-[Skills](#Skills) | [Education](#Education) | [Projects](##Projects) | [Experience](##Experience) | [Hobbies and Interests](##Hobbies) | [Blog](##TBC)
+[Skills](#Skills) | [Education](#Education) | [Projects](#Projects) | [Experience](#Experience) | [Hobbies and Interests](#Hobbies) | [Blog](#TBC)
 
 I am a confident and ambitious **Junior Full Stack Developer** based in London. With a strong analytical mind, I have embarked on a career change where I can put my skills to better use.
 
@@ -72,9 +72,9 @@ For a complete list of my projects, and full source code, please see my [GitHub]
 **Sports Trading Business** (Oct 10 - Jun 12)
 *Trader*
 
-## <a name="Hobbies">Hobbies and Interests/a>
+## <a name="Hobbies">Hobbies and Interests</a>
 
-**Sports:**
-**Nutrition:**
-**Travelling:**
+-**Sports:**
+-**Nutrition:**
+-**Travelling:**
 
