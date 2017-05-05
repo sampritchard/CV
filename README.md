@@ -9,22 +9,18 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## <a name="Skills">Skills</a>
 
-#### This Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+With a background in sales, communication is what my previous career has been based on. During my sales career in London and Sydney, I have dealt with professionals and clients from all walks of life. From buidling relationships with a CTO at a major Fintech, to helping a Developer get their first job oversea's. I love networking at events and meeting new people. Verbal and written communication skills.
 
-- Experience
-- Achievements
-- Evidence
+#### Initiative
 
-#### Another Skill
+Whilst at University, I created a sports trading business to help fund myself.
+After joining a start-up branch of a recruitment company in Sydney, I helped develop our brand and staff retention by deploying ideas such as a quarterly meetup with tech leaders, staff activities at the end of every month and much more
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Analytical
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Time-Management
 
 ## <a name="Education">Education</a>
 
@@ -48,8 +44,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A-levels:     2 A's in Psychology & Physical Education. B in History
 - GCSE's:       9 GCSE's grade A-B including Mathematics(A) & Enlgish Language(A)
 
+## <a name="Projects">Projects</a>
 
-## Experience
+
+## <a name="Experience">Experience</a>
 
 **Salt Australia** (Dec 15 - Jan 17)    
 *Recruitment Consultant (Web & Mobile Development)*  
@@ -66,4 +64,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Sports Trading Business** (Oct 10 - Jun 12)
 *Trader*
 
-## Hobbies & Interests
+## <a name="Hobbies">Hobbies and Interests/a>
+
+**Sports:**
+**Nutrition:**
+**Travelling:**
+
