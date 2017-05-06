@@ -58,25 +58,25 @@ For a complete list of my projects, and full source code, please see my [GitHub]
 ## <a name="Experience">Experience</a>
 
 **Salt Australia** (Dec 15 - Jan 17)  
-*Recruitment Consultant (Web & Mobile Development)*  
+- *Recruitment Consultant (Web & Mobile Development)*  
 
 **Foxtons** (Sept 14 - Mar 15) 
-*Sales Negotiator*
+- *Sales Negotiator*
 
 **McDonalds** (Sept 13 - Sept 14)  
-*Trainee Business Manager*  
+- *Trainee Business Manager*  
 
 **Badger Racing Ltd (on-course bookmaker)** (Jun 10 - Jun 15)
-*Risk Analyst & Trader*
+- *Risk Analyst & Trader*
 
 **Sports Trading Business** (Oct 10 - Jun 12)
-*Trader*
+- *Trader*
 
 ## <a name="Hobbies">Hobbies and Interests</a>
 
-**Sports:**
+- **Sports:** I love being active and play sports such as Football, Tennis, Golf and Padel. Love to cylce and recently signed up to compete in my first marathon!
 
--**Nutrition:**
+- **Nutrition:** I am really passionate about cooking healthy and nutritious meals which give me lots of energy. Love reading about new research papers and listening to podcasts about plant-based athletes to enhance performance.
 
--**Travelling:**
+- **Travelling:** I have travelled through Central and South America and love meeting new people and expperiencing different cultures.
 
