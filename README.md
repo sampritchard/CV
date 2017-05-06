@@ -57,10 +57,16 @@ For a complete list of my projects, and full source code, please see my [GitHub]
 
 ## <a name="Experience">Experience</a>
 
-**Salt Australia** (Dec 15 - Jan 17)    
+**Salt Australia** (Dec 15 - Jan 17)  
 *Recruitment Consultant (Web & Mobile Development)*  
 
-**Foxtons** (Sept 14 - Mar 15)   
+**Foxtons** (Sept 14 - Mar 15) 
+*Sales Negotiator*
+
+**McDonals** (Sept 13 - Sept 14)  
+*Trainee Business Manager*  
+
+**Foxtons** (Sept 14 - Mar 15) 
 *Sales Negotiator*
 
 **McDonalds** (Sept 13 - Sept 14)
@@ -74,7 +80,9 @@ For a complete list of my projects, and full source code, please see my [GitHub]
 
 ## <a name="Hobbies">Hobbies and Interests</a>
 
--**Sports:**
+**Sports:**
+
 -**Nutrition:**
+
 -**Travelling:**
 
