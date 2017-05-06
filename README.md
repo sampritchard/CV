@@ -63,14 +63,8 @@ For a complete list of my projects, and full source code, please see my [GitHub]
 **Foxtons** (Sept 14 - Mar 15) 
 *Sales Negotiator*
 
-**McDonals** (Sept 13 - Sept 14)  
+**McDonalds** (Sept 13 - Sept 14)  
 *Trainee Business Manager*  
-
-**Foxtons** (Sept 14 - Mar 15) 
-*Sales Negotiator*
-
-**McDonalds** (Sept 13 - Sept 14)
-*Trainee Business Manager*
 
 **Badger Racing Ltd (on-course bookmaker)** (Jun 10 - Jun 15)
 *Risk Analyst & Trader*
