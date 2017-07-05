@@ -8,6 +8,10 @@ After recruiting software developers in Sydney, I became fascinated by the intri
 
 I am currently looking for a role within an ambitious company that promotes learning and collaboration in a team enviornment, where I can consolodate and extend my programming knowledge surrounded by like-minded professionals. 
 
+## <a name="Projects">Projects</a>
+
+For a complete list of my projects, and full source code, please see my [GitHub](https://github.com/sampritchard)
+
 ## <a name="Skills">Skills</a>
 
 #### Communication
@@ -47,13 +51,6 @@ Throughout my sales career, time-management has been hugely important. Breaking 
 
 - A-levels:     2 A's in Psychology & Physical Education. B in History
 - GCSE's:       9 GCSE's grade A-B including Mathematics(A) & Enlgish Language(A)
-
-## <a name="Projects">Projects</a>
-
-For a complete list of my projects, and full source code, please see my [GitHub](https://github.com/sampritchard)
-
-| Project   | Description | Technologies |
-|---        |---          |---           |
 
 ## <a name="Experience">Experience</a>
 
