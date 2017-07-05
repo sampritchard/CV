@@ -38,7 +38,7 @@ Throughout my sales career, time-management has been hugely important. Breaking 
 - Best practices using Agile methodologies
 - OOP, TDD, SOLID, MVC, DDD
 - Pair-programming
-- Ruby, Rails, Javascript, Node.js, Express.js
+- Ruby, Rails, JavaScript, Node.js, Express.js
 - Rspec, Jasmine, Mocha, Zombie
 
 #### Cardiff Psychology (Sept 09 - Jun 13)
