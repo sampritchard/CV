@@ -38,8 +38,8 @@ Throughout my sales career, time-management has been hugely important. Breaking 
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Node.js, Express.js
+- Rspec, Jasmine, Mocha, Zombie
 
 #### Cardiff Psychology (Sept 09 - Jun 13)
 
