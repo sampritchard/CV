@@ -37,7 +37,7 @@ Throughout my sales career, time-management has been hugely important. Breaking 
 - Curiosity and hungry passion for code
 - Best practices using Agile methodologies
 - OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
+- Pair-programming
 - Ruby, Rails, Javascript, Node.js, Express.js
 - Rspec, Jasmine, Mocha, Zombie
 
