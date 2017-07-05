@@ -35,7 +35,7 @@ Throughout my sales career, time-management has been hugely important. Breaking 
 #### Makers Academy (May 17 to July 17)
 
 - Curiosity and hungry passion for code
-- Independent learner and problem-solver
+- Best practices using Agile methodologies
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js, Express.js
