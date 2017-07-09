@@ -4,9 +4,9 @@
 
 I am a confident and ambitious **Junior Full Stack Developer** based in London. With a strong analytical mind, I have embarked on a career change where I can put my skills to better use.
 
-After recruiting software developers in Sydney, I became fascinated by the intricate details of the Development landscape. Currently undertaking the intensive 12 weeks of [Makers Academy](http://www.makersacademy.com/), I have grown from someone with an interest in code, to someone who is incredidbly passionate about writing clean code using best practices. 
+After recruiting software developers in Sydney, I became fascinated by the intricate details of the Development landscape. Currently undertaking the intensive 12 weeks of [Makers Academy](http://www.makersacademy.com/), I have grown from someone with an interest in code, to someone who is incredibly passionate about writing clean code using best practices. 
 
-I am currently looking for a role within an ambitious company that promotes learning and collaboration in a team enviornment, where I can consolodate and extend my programming knowledge surrounded by like-minded professionals. 
+I am currently looking for a role within an ambitious company that promotes learning and collaboration in a team environment, where I can consolidate and extend my programming knowledge surrounded by like-minded professionals. 
 
 ## <a name="Projects">Projects</a>
 
