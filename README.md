@@ -4,11 +4,17 @@
 
 I am a confident and ambitious **Junior Full Stack Developer** based in London. With a strong analytical mind, I have embarked on a career change where I can put my skills to better use.
 
-After recruiting software developers in Sydney, I became fascinated by the intricate details of the Development landscape. Currently undertaking the intensive 12 weeks of [Makers Academy](http://www.makersacademy.com/), I have grown from someone with an interest in code, to someone who is incredibly passionate about writing clean code using best practices. 
+After recruiting software developers in Sydney, I became fascinated by the intricate details of the Development landscape. After finishing the intensive 12 weeks of [Makers Academy](http://www.makersacademy.com/), I have grown from someone with an interest in code, to someone who is incredibly passionate about writing clean code using best practices. 
 
 I am currently looking for a role within an ambitious company that promotes learning and collaboration in a team environment, where I can consolidate and extend my programming knowledge surrounded by like-minded professionals. 
 
 ## <a name="Projects">Projects</a>
+
+Project                                                               | Description   | Technology
+-------------                                                         | ------------- |----------
+[Ductu](https://github.com/sampritchard/to-learn-list)                | A tool for managing mentor/mentee relationships | Node.js, Express.js, MongoDB, Pug, Mocha/Chai/Zombie
+[Thermostat](https://github.com/sampritchard/theromstat)              | Thermostat where can user can change the temperature | JavaScript, jQuery, AJAX, CSS3, HTML5, Jasmine
+[FizzBuzz](https://github.com/sampritchard/JS-FizzBuzz)               | A game of Fizz Buzz where you can enter any number and see the result | JavaScript, CSS3, HTML5
 
 For a complete list of my projects, and full source code, please see my [GitHub](https://github.com/sampritchard)
 
