@@ -38,6 +38,7 @@ Throughout my sales career, time-management has been hugely important. Breaking 
 - OOP, TDD, SOLID, MVC, DDD
 - Pair-programming
 - Ruby, Rails, JavaScript, Node.js, Express.js
+- SQL, MySQL, PostgreSQL, MongoDB
 - Rspec, Jasmine, Mocha, Zombie
 
 #### Cardiff Psychology (Sept 09 - Jun 13)
